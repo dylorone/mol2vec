@@ -1,5 +1,5 @@
 numpy
-gensim==3.8.3
+gensim
 tqdm
 joblib
 pandas
